@@ -1,6 +1,7 @@
 # i_am_rich
 
 A new Flutter application.
+WORKS ON BOTH ANDROID AND IOS DEVICES :)
 
 ## Getting Started
 
